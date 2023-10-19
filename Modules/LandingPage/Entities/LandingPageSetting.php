@@ -29,7 +29,7 @@ class LandingPageSetting extends Model
 
         // $settings = [
         //     "topbar_status" => "on",
-        //     "topbar_notification_msg" => "Welcome To Kaiten Software",
+        //     "topbar_notification_msg" => "Welcome To Devashish Soni",
 
         //     "menubar_status" => "on",
         //     "menubar_page"=>'',

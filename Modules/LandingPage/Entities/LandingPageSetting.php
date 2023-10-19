@@ -29,7 +29,7 @@ class LandingPageSetting extends Model
 
         // $settings = [
         //     "topbar_status" => "on",
-        //     "topbar_notification_msg" => "Devashish",
+        //     "topbar_notification_msg" => "Devashish Soni",
 
         //     "menubar_status" => "on",
         //     "menubar_page"=>'',
